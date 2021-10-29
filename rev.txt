@@ -1,6 +1,9 @@
-a0
+a
 b
 c
+<<<<<<< HEAD
 0d
+=======
+>>>>>>> parent of 8c2569a (fourthLine)
 
 
